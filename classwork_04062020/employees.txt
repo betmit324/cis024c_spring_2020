@@ -1,2 +1,2 @@
-"Bob","Hertz",57881.25,"Math"
-"Bill","Worth",69457.5,"Physics"
+"Bob","Hertz",60775.3125,"Math"
+"Bill","Worth",72930.375,"Physics"
